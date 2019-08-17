@@ -8,7 +8,7 @@ Some PCB projects using Eagle
 
 - PIC
 
-PIC programmer PCB for development.
+PIC programmer PCB for development (designed in 2010).
 
 - fonteReg
 
